@@ -55,4 +55,4 @@ async function main() {
 
 main().catch(console.error);
 
-// do příště si chci udělat tlačítko, co zastaví program zkouska seba
+// do příště si chci udělat tlačítko, co zastaví program zkouska seba ok
